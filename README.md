@@ -27,15 +27,6 @@ As tabelas se relacionam através dos IDs dos registros.
 * SQL
 * PostgreSQL
 
-## Comandos SQL utilizados
-
-Durante o desenvolvimento foram utilizados os seguintes comandos:
-
-* CREATE TABLE
-* INSERT INTO
-* SELECT
-
-* JOIN
 
 
 ## Como executar o projeto
